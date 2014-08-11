@@ -1,0 +1,4 @@
+MysteryCrates
+=============
+
+MysteryCrates plugin
